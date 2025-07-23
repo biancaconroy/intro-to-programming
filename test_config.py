@@ -1,0 +1,2 @@
+from Utils.config import GOOGLE_MAPS_API_KEY
+print(GOOGLE_MAPS_API_KEY)
